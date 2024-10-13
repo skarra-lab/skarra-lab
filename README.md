@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sikhangele Nogcinisa located in South Africa Cape Town doing my second year at university
+- I developed a big interest in development along my teenage ages
+- I want to learn JS as I already know HTML and CSS
